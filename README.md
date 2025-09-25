@@ -1,5 +1,3 @@
-# core-docs
-
 # Redbird Robotics Core Documentation
 
 Welcome to the Redbird Robotics Core Documentation repository. This repo serves as the single source of truth for standards, workflows, onboarding guides, and templates used across all our teams: ASEE, SECon, VEXU, and Outreach.  
