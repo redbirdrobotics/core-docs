@@ -10,9 +10,7 @@ Welcome to the Redbird Robotics Core Documentation repository. This repo serves 
 
 - [Purpose](#purpose)  
 - [Onboarding](#onboarding)  
-- [Standards](#standards)  
-- [Workflows](#workflows)  
-- [Templates](#templates)  
+- [Standards](#standards)
 - [Support](#support)
 
 ---
@@ -46,28 +44,7 @@ All teams should follow the documented standards:
 
 - [Coding Standards](standards/coding-standards.md) – Formatting, naming conventions, best practices  
 - [CAD Standards](standards/CAD-standards.md) – File naming, assembly organization, versioning guidance  
-- [Electronics Standards](standards/electronics-standards.md) – Schematic and PCB conventions  
-- [Repo Naming](standards/repo-naming-conventions.md) – How to name repos and folders consistently  
-
----
-
-## Workflows
-
-Our workflow documentation ensures safe collaboration and reduces conflicts:  
-
-- [Branch Strategy](workflows/branch-strategy.md) – How to name and manage branches  
-- [Pull Request Guidelines](workflows/PR-guidelines.md) – Review process, approvals, and merging  
-- [Merge Workflow](workflows/merge-workflow.md) – Handling assembly or binary file merges  
-
----
-
-## Templates
-
-Templates help standardize communication and documentation:  
-
-- [Issue Template](templates/issue-template.md)  
-- [Pull Request Template](templates/PR-template.md)  
-- [Meeting Notes Template](templates/meeting-notes-template.md)  
+- [Electronics Standards](standards/electronics-standards.md) – Schematic and PCB conventions
 
 ---
 
@@ -76,8 +53,8 @@ Templates help standardize communication and documentation:
 For questions or help:  
 
 - Check the appropriate team lead for project-specific issues  
-- Open an issue in this repository if the docs are unclear or need updates  
-- Refer to the [Contributing Guidelines](CONTRIBUTING.md) before making changes
+- Open an issue in this repository if the docs are unclear or need updates
+- Ask on discord if you need further help
 
 ---
 
